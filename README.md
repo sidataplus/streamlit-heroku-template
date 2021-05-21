@@ -18,7 +18,7 @@ poetry install
 ### Run app
 
 ```{bash}
-poetry run app
+poetry run streamlit run src/app.py --server.runOnSave true
 ```
 
 ### Format code
