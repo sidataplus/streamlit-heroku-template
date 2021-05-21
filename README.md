@@ -1,1 +1,36 @@
 # streamlit-heroku-template
+
+## Requirements
+
+- Python 3.9
+- Poetry [Documentation](https://python-poetry.org/docs/)
+
+## How-to
+
+### Install packages
+
+```{bash}
+poetry install
+```
+
+### Run app
+
+```{bash}
+poetry run app
+```
+
+### Format code
+
+```{bash}
+poetry run yapf src/* -i -p
+```
+
+### Deploy to Heroku
+
+Export requirements
+
+```{bash}
+poetry export -f requirements.txt --without-hashes --output requirements.txt
+```
+
+Go through [Deploying with Git](https://devcenter.heroku.com/articles/git)
