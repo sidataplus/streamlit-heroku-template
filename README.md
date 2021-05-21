@@ -1,5 +1,7 @@
 # streamlit-heroku-template
 
+a simple template for deploying a Streamlit app on Heroku
+
 ## Requirements
 
 - Python 3.9
