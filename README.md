@@ -35,4 +35,4 @@ Export requirements
 poetry export -f requirements.txt --without-hashes --output requirements.txt
 ```
 
-Go through [Heroku: Deploying with Git](https://devcenter.heroku.com/articles/git)
+Go through [Heroku: Deploying with Git](https://devcenter.heroku.com/articles/git) or [Heroku: GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
