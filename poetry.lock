@@ -795,7 +795,7 @@ python-versions = ">=3.5"
 
 [[package]]
 name = "streamlit"
-version = "0.84.0"
+version = "0.84.1"
 description = "The fastest way to build data apps in Python"
 category = "main"
 optional = false
@@ -977,7 +977,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "41da518a37a25530a14c8c67435f94d7bcb16ab3e79187e5b3fb2a7d6ad9a914"
+content-hash = "78a3ad13c690e7d421790404a6fdaf0994fc81eb8b87107eba6229dc82930a58"
 
 [metadata.files]
 altair = [
@@ -1479,8 +1479,8 @@ smmap = [
     {file = "smmap-4.0.0.tar.gz", hash = "sha256:7e65386bd122d45405ddf795637b7f7d2b532e7e401d46bbe3fb49b9986d5182"},
 ]
 streamlit = [
-    {file = "streamlit-0.84.0-py2.py3-none-any.whl", hash = "sha256:fc31be2c7ee2d99571ce332b519fd2907eb3fa0958049cdde8796dec8307d08a"},
-    {file = "streamlit-0.84.0.tar.gz", hash = "sha256:3dc92120b09a48b770178271b590cd9de10285bd2dbedd85adce36f7eae6a520"},
+    {file = "streamlit-0.84.1-py2.py3-none-any.whl", hash = "sha256:83b52d925b29b501b901927aa4f9d5d477494cefd08d0e1ec3e749c795b9cddf"},
+    {file = "streamlit-0.84.1.tar.gz", hash = "sha256:cda3eab84ca6e1156ce6305839045e997e1dd0ef595e9546108535986dac767f"},
 ]
 terminado = [
     {file = "terminado-0.10.0-py3-none-any.whl", hash = "sha256:048ce7b271ad1f94c48130844af1de163e54913b919f8c268c89b36a6d468d7c"},
