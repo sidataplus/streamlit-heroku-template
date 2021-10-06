@@ -15,6 +15,10 @@ a simple template for deploying a Streamlit app on Heroku
 poetry install
 ```
 
+### Edit Source Code
+
+See `app.py` in directory `src` following [Streamlit Documentation](https://docs.streamlit.io/en/stable/)
+
 ### Run app
 
 ```{bash}
